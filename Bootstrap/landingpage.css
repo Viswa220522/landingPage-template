@@ -1,0 +1,23 @@
+.jumbotron{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 100px;
+    margin-top: 20px;
+}
+#content{
+    text-align: center;
+}
+#content{
+    margin-top: 50px;
+}
+.row{
+    margin: 0px 50px 0px 50px;
+}
+#footer{
+    background-color: black;
+    margin-top: 50px;
+    padding: 100px;
+    color: white;
+    text-align: center;
+}
